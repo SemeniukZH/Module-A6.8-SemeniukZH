@@ -1,0 +1,9 @@
+.buttons{
+    margin-top: 3vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    width: 10vw;
+}
